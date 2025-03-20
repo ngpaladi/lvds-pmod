@@ -1,0 +1,6 @@
+[submodule "project_libraries/lvds-kicad"]
+	path = project_libraries/lvds-kicad
+	url = git@github.com:ngpaladi/lvds-kicad
+[submodule "project_libraries/kicad-pmod"]
+	path = project_libraries/kicad-pmod
+	url = https://github.com/mithro/kicad-pmod.git

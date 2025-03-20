@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LVDS")(type "KiCad")(uri "${KIPRJMOD}/project_libraries/lvds-kicad/LVDS.kicad_sym")(options "")(descr ""))
+  (lib (name "pmod")(type "Legacy")(uri "${KIPRJMOD}/project_libraries/kicad-pmod/pmod.lib")(options "")(descr ""))
+)
